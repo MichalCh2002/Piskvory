@@ -41,6 +41,7 @@ namespace PiškvorkyNaGITu
         {
             //test jestli jsou vsechny tlacitka zaplnena
             if (btn1.Text != "" && btn2.Text != "" && btn3.Text != "" && btn4.Text != "" && btn5.Text != "");
+            /*dodelat zbytek, predelat na image?*/
         }
     }
 }
