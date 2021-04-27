@@ -18,7 +18,8 @@ namespace PiškvorkyNaGITu
             Application.SetCompatibleTextRenderingDefault(false);
             /*tets*/
             Application.Run(new Form1());
-            /*taky3*/
+            /*taky4*/
+            /*kebab*/
         }
     }
 }
