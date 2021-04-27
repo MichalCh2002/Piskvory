@@ -19,6 +19,8 @@ namespace PiškvorkyNaGITu
             /*tets*/
             Application.Run(new Form1());
 
+            Player currentPlayer = Player.X; //soucasny hrac
+            check();
         }
 
         //pole pro mrizku piskvorek
@@ -27,8 +29,18 @@ namespace PiškvorkyNaGITu
         static int choice;  //pozice vyberu hrace
 
         static int flag = 0;    //promenna pro identifikaci viteze
+        // 0 je x, 1 je o, -1 je remiza
 
+        public enum Player
+        { 
+            X,
+            O
+        }
 
-
+        static void check()
+        {
+            //test jestli jsou vsechny tlacitka zaplnena
+            if (btn1.Text != "" && btn2.Text != "" && btn3.Text != "" && btn4.Text != "" && btn5.Text != "");
+        }
     }
 }
