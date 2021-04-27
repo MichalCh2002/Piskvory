@@ -117,18 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="bunifuButton1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAAFoAAABXCAYAAACENlLcAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAAEE0AABBNAWeMAeAAAAGUSURBVHhe7d2xTQNBGAXhbcQ2pVABrd0hyiAmpRQacEQD
-        e/jQhBdhD9H80iSrF30N7Oj+8S7L9nRZ5/t53bZ6YK/zY7eFeYzzMj8Ph3V3p2V+wXyDPhjU44I5aDuY
-        g7aDOWg7mIO2gzloO5iDtoM5aDuYg7aDOWg7mIO2gzloO5iDtoM5aDuYg7aDOWg7mIO2gzloO5iDtoM5
-        aDuYg7aDOWg7mIO2gzloO5iDtoM5aDuYg7aDOWg7mIO2gzloO5iDtoM5aDuYg7aDOWg7mIO2gzloO5iD
-        toM5aDuYg7aDOWg7mIO2gzloO5iDtoM5aDuYg7aDOWg7mIO2gzloO5iDtoM5aDuYg7aDOWg7mIO2gzlo
-        O5iDtoM5aDuYg7aDOWg7mIO2gzloO5iDtoM5aDuYg7aDOWg7mIO2gzloO5iDtoM5aDuYg7aDOWg7mIO2
-        gzloO5iDtoM5aDuYg7aDOWg7mIO2gzloO5iDtoM5aDuYg7aDeYz9F8mjQd3faZ3fMP/+Oft8e7geDevv
-        7cint/kCc+ffGD+v6hGnlH1PZgAAAABJRU5ErkJggg==
-</value>
-  </data>
 </root>
